@@ -4,7 +4,7 @@
 
 ## Session checkpoint — 2026-03-29 (README + Git push)
 
-- **Done:** [`README.md`](../README.md) GitHub refresh (badges, preview `stitch_sample_1/screen.png`, feature table, stack, docs index). DOCS: [`SUMMARY.md`](./SUMMARY.md), [`CHANGELOG.md`](./CHANGELOG.md) amended. **`git push`** to `origin/main` after user confirms build green.
+- **Done:** [`README.md`](../README.md) GitHub refresh (badges, preview `stitch_sample_1/screen.png`, feature table, stack, docs index). DOCS: [`SUMMARY.md`](./SUMMARY.md), [`CHANGELOG.md`](./CHANGELOG.md), [`SBOM.md`](./SBOM.md), [`SCRATCHPAD.md`](./SCRATCHPAD.md). **`git push`** `origin/main` — commit `b57773c`.
 
 ## Session checkpoint — 2026-03-29 (Gradle jlink / JDK)
 
